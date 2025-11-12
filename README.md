@@ -1,4 +1,4 @@
-![hello](https://iili.io/3fBel4a.png)
+![hello]()
 
 ## About Me
 I’m Rivelle from Taiwan. Whether happy or sad, I always enjoy a cup of bubble tea 🧋
