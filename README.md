@@ -1,8 +1,11 @@
 ![hello](https://github.com/LazyShark2001/LazyShark2001/blob/main/ME.png)
 
 ## About Me
-I’m Rivelle from Taiwan. Whether happy or sad, I always enjoy a cup of bubble tea 🧋
+Hi, I’m LazyShark 🦈
 
-I’m here purely out of love and interest. Initially, I just wanted to show appreciation for my favorite open-source projects—yes, that’s it, no other reason. I mostly care about aesthetics (tweaking CSS, occasionally writing JavaScript to enhance both usability and design), and I also do some basic Traditional Chinese translations and i18n.
+Whether I’m happy or sad, an ice cream always makes things better. 🍦
 
-And no, I will never admit that I wrote this README just to showcase the nice banner I made.
+I’m here simply out of curiosity and passion — just a place to keep the code I’ve spent time on, and the projects that truly caught my eye.This repository collects my explorations and little experiments in deep learning, computer vision, and object detection.If any of these projects inspire you, or even just make you smile, that’s already enough for me.
+
+As for the real reason I wrote this introduction?
+I’ll never admit it was just to show off my carefully chosen cover image. 😏
