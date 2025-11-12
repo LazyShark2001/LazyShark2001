@@ -1,4 +1,4 @@
-![hello](https://github.com/LazyShark2001/LazyShark2001/blob/main/1578319017710.jpeg)
+![hello](https://github.com/LazyShark2001/LazyShark2001/blob/main/ME.png)
 
 ## About Me
 I’m Rivelle from Taiwan. Whether happy or sad, I always enjoy a cup of bubble tea 🧋
