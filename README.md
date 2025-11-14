@@ -1,4 +1,4 @@
-![hello](https://github.com/LazyShark2001/LazyShark2001/blob/main/ME.png)
+![hello](https://github.com/LazyShark2001/LazyShark2001/blob/main/ME1.png)
 
 ## About Me
 Hi, I’m LazyShark 🦈
