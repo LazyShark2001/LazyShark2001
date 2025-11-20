@@ -1,6 +1,6 @@
 ![hello](https://iili.io/fJ2XhlI.png)
 
-[![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://bio.site/LazyShark2001) [![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://bio.site/LazyShark2001)
+[![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://bio.site/LazyShark2001) [![](https://img.shields.io/badge/LazyShark-Mail-red)](Lazyshark2001@gmail.com)
 
 ## About Me
 Hi, I’m LazyShark 🦈
