@@ -1,6 +1,6 @@
 ![hello](https://iili.io/fJ2XhlI.png)
 
-[![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://blog.csdn.net/weixin_42301220?spm=1010.2135.3001.5343)
+[![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://bio.site/LazyShark2001)
 
 ## About Me
 Hi, I’m LazyShark 🦈
