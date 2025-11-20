@@ -1,7 +1,5 @@
 ![hello](https://iili.io/fJ2XhlI.png)
 
-![hello](http://api.mtyqx.cn/tapi/random.php)
-
 [![](https://img.shields.io/badge/LazyShark-Blog-blue)](https://bio.site/LazyShark2001) [![](https://img.shields.io/badge/LazyShark-Null-red)]() [![](https://img.shields.io/badge/LazyShark-Null-brightgreenn)]()
 
 
