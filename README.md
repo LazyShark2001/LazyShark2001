@@ -11,3 +11,5 @@ As for the real reason I wrote this introduction?
 I’ll never admit it was just to show off my carefully chosen cover image. 😠
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyShark2001&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://img.shields.io/badge/CHH3213-CSDN-red)](https://blog.csdn.net/weixin_42301220?spm=1010.2135.3001.5343)
