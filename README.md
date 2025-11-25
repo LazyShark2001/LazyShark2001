@@ -13,6 +13,5 @@ I’m here simply out of curiosity and passion — just a place to keep the code
 As for the real reason I wrote this introduction?
 I’ll never admit it was just to show off my carefully chosen cover image. 😠
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyShark2001&hide=contribs,prs&show_icons=true&theme=rose)]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyShark2001&hide=contribs,prs&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
