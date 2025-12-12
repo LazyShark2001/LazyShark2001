@@ -15,3 +15,4 @@ I’ll never admit it was just to show off my carefully chosen cover image. 😠
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazyShark2001&hide=contribs,prs&show_icons=true&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
