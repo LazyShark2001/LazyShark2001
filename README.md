@@ -13,4 +13,4 @@ I’m here simply out of curiosity and passion — just a place to keep the code
 As for the real reason I wrote this introduction?
 I’ll never admit it was just to show off my carefully chosen cover image. 😠
 
-![redViewer]([https://count.getloli.com/get/@comic_viewer?theme=rule34](https://count.getloli.com/@LazyShark?name=LazyShark&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
+![redViewer]([[https://count.getloli.com/get/@comic_viewer?theme=rule34](https://count.getloli.com/@LazyShark?name=LazyShark&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)])
