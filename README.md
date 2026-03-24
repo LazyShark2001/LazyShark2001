@@ -15,4 +15,6 @@ I’ll never admit it was just to show off my carefully chosen cover image. 😏
 
 ---
 
-![redViewer](https://count.getloli.com/get/@LazyShark?theme=rule34)
+![LazyShark](https://count.getloli.com/get/@LazyShark?theme=rule34)
+
+<!-- ![LazyShark](https://count.getloli.com/get/@LazyShark?theme=rule34) -->
